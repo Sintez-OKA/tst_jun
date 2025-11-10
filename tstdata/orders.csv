@@ -1,0 +1,6 @@
+external_id,item,quantity,due_date,priority,operation_code,resource_code,duration_minutes
+ORD-001,Widget-A,10,2025-11-20,3,OP-PAINT,RES-PAINT,60
+ORD-002,Widget-B,5,2025-11-18,2,OP-ASSEMBLE,RES-ASSY,120
+ORD-003,Widget-A,7,2025-11-22,4,OP-PAINT,RES-PAINT,60
+ORD-004,Widget-C,20,2025-11-30,5,OP-PACK,RES-PACK,30
+ORD-005,Widget-B,2,2025-11-17,1,OP-ASSEMBLE,RES-ASSY,120
